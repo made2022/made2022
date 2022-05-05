@@ -9,7 +9,7 @@ export const HomeScreen = () => {
 
     return (
         <div>
-            <h1>HomeScreen</h1>
+            <h1>HomeScreen Made</h1>
             <hr />
 
             <pre>
